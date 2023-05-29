@@ -15,7 +15,10 @@ public class client {
 //        Problem5 test = new Problem5();
 //        System.out.println(test.conjecture(100));
 
-        Problem6 test = new Problem6();
-        System.out.println(test.solution(99));
+//        Problem6 test = new Problem6();
+//        System.out.println(test.solution(99));
+
+        Problem7 test = new Problem7();
+        System.out.println(test.sortDesc(23459768));
     }
 }
