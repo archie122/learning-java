@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class client {
     public static void main(String[] args) {
 //        Problem1 test = new Problem1();
@@ -18,7 +20,10 @@ public class client {
 //        Problem6 test = new Problem6();
 //        System.out.println(test.solution(99));
 
-        Problem7 test = new Problem7();
-        System.out.println(test.sortDesc(23459768));
+//        Problem7 test = new Problem7();
+//        System.out.println(test.sortDesc(23459768));
+
+        Problem8 test = new Problem8();
+        System.out.println(Arrays.toString(test.squareOrSquareRoot(new int[]{4, 3, 9, 7, 2, 1})));
     }
 }
