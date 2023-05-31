@@ -23,7 +23,10 @@ public class client {
 //        Problem7 test = new Problem7();
 //        System.out.println(test.sortDesc(23459768));
 
-        Problem8 test = new Problem8();
-        System.out.println(Arrays.toString(test.squareOrSquareRoot(new int[]{4, 3, 9, 7, 2, 1})));
+//        Problem8 test = new Problem8();
+//        System.out.println(Arrays.toString(test.squareOrSquareRoot(new int[]{4, 3, 9, 7, 2, 1})));
+
+        Problem9 test = new Problem9();
+        System.out.println(Arrays.toString(test.tribonacci(new double[]{9, 0, 9}, 1)));
     }
 }
