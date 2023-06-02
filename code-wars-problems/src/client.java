@@ -29,7 +29,13 @@ public class client {
 //        Problem9 test = new Problem9();
 //        System.out.println(Arrays.toString(test.tribonacci(new double[]{9, 0, 9}, 1)));
 
-        Problem10 test = new Problem10();
-        System.out.println(test.even_or_odd(1));
+//        Problem10 test = new Problem10();
+//        System.out.println(test.even_or_odd(1));
+
+//        Problem11 test = new Problem11();
+//        System.out.println(test.isPalindrome(-121));
+
+        Problem12 test = new Problem12();
+        System.out.println(test.digPow(46288, 3));
     }
 }
