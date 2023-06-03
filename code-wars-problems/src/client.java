@@ -35,7 +35,10 @@ public class client {
 //        Problem11 test = new Problem11();
 //        System.out.println(test.isPalindrome(-121));
 
-        Problem12 test = new Problem12();
-        System.out.println(test.digPow(46288, 3));
+//        Problem12 test = new Problem12();
+//        System.out.println(test.digPow(46288, 3));
+
+        Problem13 test = new Problem13();
+        System.out.println(test.romanToInt("MCMXCIV"));
     }
 }
