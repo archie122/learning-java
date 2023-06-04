@@ -38,7 +38,10 @@ public class client {
 //        Problem12 test = new Problem12();
 //        System.out.println(test.digPow(46288, 3));
 
-        Problem13 test = new Problem13();
-        System.out.println(test.romanToInt("MCMXCIV"));
+//        Problem13 test = new Problem13();
+//        System.out.println(test.romanToInt("MCMXCIV"));
+
+        Problem14 test = new Problem14();
+        System.out.println(test.repeatStr(3, "abc"));
     }
 }
