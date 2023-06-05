@@ -41,7 +41,10 @@ public class client {
 //        Problem13 test = new Problem13();
 //        System.out.println(test.romanToInt("MCMXCIV"));
 
-        Problem14 test = new Problem14();
-        System.out.println(test.repeatStr(3, "abc"));
+//        Problem14 test = new Problem14();
+//        System.out.println(test.repeatStr(3, "abc"));
+
+        Problem15 test = new Problem15();
+        System.out.println(test.isNarcissistic(153));
     }
 }
