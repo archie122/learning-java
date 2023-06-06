@@ -44,7 +44,10 @@ public class client {
 //        Problem14 test = new Problem14();
 //        System.out.println(test.repeatStr(3, "abc"));
 
-        Problem15 test = new Problem15();
-        System.out.println(test.isNarcissistic(153));
+//        Problem15 test = new Problem15();
+//        System.out.println(test.isNarcissistic(153));
+
+        Problem16 test = new Problem16();
+        System.out.println(test.seriesSum(1));
     }
 }
