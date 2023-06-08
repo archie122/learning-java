@@ -47,7 +47,10 @@ public class client {
 //        Problem15 test = new Problem15();
 //        System.out.println(test.isNarcissistic(153));
 
-        Problem16 test = new Problem16();
-        System.out.println(test.seriesSum(1));
+//        Problem16 test = new Problem16();
+//        System.out.println(test.seriesSum(1));
+
+        Problem17 test = new Problem17();
+        System.out.println(test.GetSum(0, -1));
     }
 }
