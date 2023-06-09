@@ -1,3 +1,4 @@
+import java.math.*;
 import java.util.Arrays;
 
 public class client {
@@ -50,7 +51,13 @@ public class client {
 //        Problem16 test = new Problem16();
 //        System.out.println(test.seriesSum(1));
 
-        Problem17 test = new Problem17();
-        System.out.println(test.GetSum(0, -1));
+//        Problem17 test = new Problem17();
+//        System.out.println(test.GetSum(0, -1));
+
+//        Problem18 test = new Problem18();
+//        System.out.println(test.getCount("abc"));
+
+        Problem19 test = new Problem19();
+        System.out.println(test.makeLatinSquare(3));
     }
 }
