@@ -57,7 +57,13 @@ public class client {
 //        Problem18 test = new Problem18();
 //        System.out.println(test.getCount("abc"));
 
-        Problem19 test = new Problem19();
-        System.out.println(test.makeLatinSquare(3));
+//        Problem19 test = new Problem19();
+//        System.out.println(test.makeLatinSquare(3));
+
+//        Problem20 test = new Problem20();
+//        System.out.println(test.areYouPlayingBanjo("Adam"));
+
+        Problem21 test = new Problem21();
+        System.out.println(test.makeComplement("AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"));
     }
 }
