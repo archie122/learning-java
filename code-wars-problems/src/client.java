@@ -63,7 +63,13 @@ public class client {
 //        Problem20 test = new Problem20();
 //        System.out.println(test.areYouPlayingBanjo("Adam"));
 
-        Problem21 test = new Problem21();
-        System.out.println(test.makeComplement("AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"));
+//        Problem21 test = new Problem21();
+//        System.out.println(test.makeComplement("AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC"));
+
+//        Problem24 test = new Problem24();
+//        System.out.println(test.binToDecimal("1001001"));
+
+        Problem25 test = new Problem25();
+        System.out.println(test.order("is2 Thi1s T4est 3a"));
     }
 }
