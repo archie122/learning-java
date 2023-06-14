@@ -1,5 +1,13 @@
 import java.util.*;
 
 public class Problem23 {
-    //https://www.codewars.com/kata/55ec80d40d5de30631000025/train/java
+    public static String vaporcode(String s) {
+        String[] arr = s.replaceAll("\\s", "").split("");
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < arr.length; i++) {
+            sb.append(arr[i].toUpperCase() + "  ");
+        }
+
+        return sb.toString().trim();
+    }
 }
