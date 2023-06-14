@@ -69,13 +69,20 @@ public class client {
 //        Problem22 test = new Problem22();
 //        System.out.println(test.accum("NyffsGeyylB"));
 
-        Problem23 test = new Problem23();
-        System.out.println(test.vaporcode("Th'e quick brown fox jumps over the lazy dog"));
+//        Problem23 test = new Problem23();
+//        System.out.println(test.vaporcode("Th'e quick brown fox jumps over the lazy dog"));
 
 //        Problem24 test = new Problem24();
 //        System.out.println(test.binToDecimal("1001001"));
 
 //        Problem25 test = new Problem25();
 //        System.out.println(test.order("is2 Thi1s T4est 3a"));
+
+//        Problem26 test = new Problem26();
+//        System.out.println(test.bmi(70, 1.8));
+
+        Problem28 test = new Problem28();
+        System.out.println(test.solution("hello", "ll"));
+
     }
 }
