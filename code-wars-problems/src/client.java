@@ -81,8 +81,13 @@ public class client {
 //        Problem26 test = new Problem26();
 //        System.out.println(test.bmi(70, 1.8));
 
-        Problem28 test = new Problem28();
-        System.out.println(test.solution("hello", "ll"));
+//        Problem28 test = new Problem28();
+//        System.out.println(test.solution("hello", "ll"));
 
+//        Problem29 test = new Problem29();
+//        System.out.println(test.count("abbbbbccc"));
+
+        Problem30 test = new Problem30();
+        System.out.println(test.between(-2, 2));
     }
 }
