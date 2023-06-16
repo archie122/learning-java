@@ -87,7 +87,10 @@ public class client {
 //        Problem29 test = new Problem29();
 //        System.out.println(test.count("abbbbbccc"));
 
-        Problem30 test = new Problem30();
-        System.out.println(test.between(-2, 2));
+//        Problem30 test = new Problem30();
+//        System.out.println(test.between(-2, 2));
+
+        Problem31 test = new Problem31();
+        System.out.println(test.invert(new int[]{-1, 2, 3, 4, 5}));
     }
 }
