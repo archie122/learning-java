@@ -90,7 +90,12 @@ public class client {
 //        Problem30 test = new Problem30();
 //        System.out.println(test.between(-2, 2));
 
-        Problem31 test = new Problem31();
-        System.out.println(test.invert(new int[]{-1, 2, 3, 4, 5}));
+//        Problem31 test = new Problem31();
+//        System.out.println(test.invert(new int[]{-1, 2, 3, 4, 5}));
+
+
+        Problem32 test = new Problem32();
+        System.out.println(test.abbrevName("Sam Patton"));
+
     }
 }
