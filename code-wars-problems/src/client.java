@@ -93,9 +93,10 @@ public class client {
 //        Problem31 test = new Problem31();
 //        System.out.println(test.invert(new int[]{-1, 2, 3, 4, 5}));
 
+//        Problem32 test = new Problem32();
+//        System.out.println(test.abbrevName("Sam Patton"));
 
-        Problem32 test = new Problem32();
-        System.out.println(test.abbrevName("Sam Patton"));
-
+        Problem33 test = new Problem33();
+        System.out.println(test.makeReadable(359999));
     }
 }
