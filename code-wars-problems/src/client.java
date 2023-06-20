@@ -96,7 +96,13 @@ public class client {
 //        Problem32 test = new Problem32();
 //        System.out.println(test.abbrevName("Sam Patton"));
 
-        Problem33 test = new Problem33();
-        System.out.println(test.makeReadable(359999));
+//        Problem33 test = new Problem33();
+//        System.out.println(test.makeReadable(359999));
+
+//        Problem34 test = new Problem34();
+//        System.out.println(test.sum(Arrays.asList(-1, 2, 3, "4", "5")));
+
+        Problem35 test = new Problem35();
+        System.out.println(test.rot13("HelloWorld"));
     }
 }
