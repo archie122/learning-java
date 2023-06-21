@@ -102,7 +102,14 @@ public class client {
 //        Problem34 test = new Problem34();
 //        System.out.println(test.sum(Arrays.asList(-1, 2, 3, "4", "5")));
 
-        Problem35 test = new Problem35();
-        System.out.println(test.rot13("HelloWorld"));
+//        Problem35 test = new Problem35();
+//        System.out.println(test.rot13("HelloWorld"));
+
+//        Problem36 test = new Problem36();
+//        System.out.println(test.duplicateCount("abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzReturnsTwentySix"));
+
+        Problem37 test = new Problem37();
+        System.out.println(test.sum(new int[]{1,-4,7,12}));
+
     }
 }
