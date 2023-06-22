@@ -108,8 +108,10 @@ public class client {
 //        Problem36 test = new Problem36();
 //        System.out.println(test.duplicateCount("abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzReturnsTwentySix"));
 
-        Problem37 test = new Problem37();
-        System.out.println(test.sum(new int[]{1,-4,7,12}));
+//        Problem37 test = new Problem37();
+//        System.out.println(test.sum(new int[]{1,-4,7,12}));
+
+
 
     }
 }
