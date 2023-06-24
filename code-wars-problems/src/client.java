@@ -111,7 +111,7 @@ public class client {
 //        Problem37 test = new Problem37();
 //        System.out.println(test.sum(new int[]{1,-4,7,12}));
 
-
+        System.out.println(Problem40.ConvertBinaryArrayToInt(Arrays.asList(1, 1, 0, 1, 1, 0)));
 
     }
 }
