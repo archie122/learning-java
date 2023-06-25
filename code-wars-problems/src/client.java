@@ -111,7 +111,11 @@ public class client {
 //        Problem37 test = new Problem37();
 //        System.out.println(test.sum(new int[]{1,-4,7,12}));
 
-        System.out.println(Problem40.ConvertBinaryArrayToInt(Arrays.asList(1, 1, 0, 1, 1, 0)));
+//        System.out.println(Problem40.ConvertBinaryArrayToInt(Arrays.asList(1, 1, 0, 1, 1, 0)));
+
+//        System.out.println(Problem42.rangeExtraction(new int[] {-6,-3,-2,-1,0,1,3,4,5,7,8,9,10,11,14,15,17,18,19,20}));
+
+        System.out.println(Problem43.zeros(26));
 
     }
 }
