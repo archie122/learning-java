@@ -117,6 +117,6 @@ public class client {
 
 //        System.out.println(Problem43.zeros(26));
 
-        System.out.println(Problem44.camelCase("camelCase"));
+//        System.out.println(Problem44.camelCase("camelCase"));
     }
 }
