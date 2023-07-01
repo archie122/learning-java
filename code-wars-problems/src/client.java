@@ -118,5 +118,9 @@ public class client {
 //        System.out.println(Problem43.zeros(26));
 
 //        System.out.println(Problem44.camelCase("camelCase"));
+
+//        System.out.println(new Problem49().perimeter(BigInteger.valueOf(5)));
+
+        System.out.println(new Problem50().rotate("Hello"));
     }
 }
