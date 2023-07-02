@@ -121,6 +121,8 @@ public class client {
 
 //        System.out.println(new Problem49().perimeter(BigInteger.valueOf(5)));
 
-        System.out.println(new Problem50().rotate("Hello"));
+//        System.out.println(new Problem50().rotate("Hello"));
+
+        System.out.println(new Problem51().perimeter(BigInteger.valueOf(0)));
     }
 }
