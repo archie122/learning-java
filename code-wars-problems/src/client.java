@@ -123,6 +123,13 @@ public class client {
 
 //        System.out.println(new Problem50().rotate("Hello"));
 
-        System.out.println(new Problem51().perimeter(BigInteger.valueOf(0)));
+//        System.out.println(new Problem51().perimeter(BigInteger.valueOf(0)));
+
+//        System.out.println(new Problem52().comp(
+//                new int[]{85,47,51,56,51,43,43,95,83,80,86,9,70,87,93,68,6},
+//                new int[]{7225,2209,2601,3136,2601,1849,1850,9025,6889,6400,7396,81,4900,7569,8649,4624,36}));
+
+        System.out.println(new Problem53().powersOfTwo(0));
+
     }
 }
