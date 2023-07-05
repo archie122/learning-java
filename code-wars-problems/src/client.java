@@ -131,7 +131,9 @@ public class client {
 
 //        System.out.println(new Problem53().powersOfTwo(0));
 
-        System.out.println(new Problem54().pipeFix(new int[]{1, 2, 10}));
+//        System.out.println(new Problem54().pipeFix(new int[]{1, 2, 10}));
+
+        System.out.println(new Problem55().solution("abcde"));
 
     }
 }
