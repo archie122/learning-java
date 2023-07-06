@@ -133,7 +133,9 @@ public class client {
 
 //        System.out.println(new Problem54().pipeFix(new int[]{1, 2, 10}));
 
-        System.out.println(new Problem55().solution("abcde"));
+//        System.out.println(new Problem55().solution("abcde"));
+
+        System.out.println(new Problem56().findEvenIndex(new int[]{20,10,-80,10,10,15,35}));
 
     }
 }
