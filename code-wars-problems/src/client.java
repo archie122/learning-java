@@ -97,7 +97,7 @@ public class client {
 //        System.out.println(test.abbrevName("Sam Patton"));
 
 //        Problem33 test = new Problem33();
-//        System.out.println(test.makeReadable(359999));
+//        System.out.println(test.makeReadable(50));
 
 //        Problem34 test = new Problem34();
 //        System.out.println(test.sum(Arrays.asList(-1, 2, 3, "4", "5")));
@@ -135,7 +135,9 @@ public class client {
 
 //        System.out.println(new Problem55().solution("abcde"));
 
-        System.out.println(new Problem56().findEvenIndex(new int[]{20,10,-80,10,10,15,35}));
+//        System.out.println(new Problem56().findEvenIndex(new int[]{20,10,-80,10,10,15,35}));
+
+        System.out.println(new Problem57().incrementString("foobar1000"));
 
     }
 }
