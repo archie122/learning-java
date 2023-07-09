@@ -137,7 +137,9 @@ public class client {
 
 //        System.out.println(new Problem56().findEvenIndex(new int[]{20,10,-80,10,10,15,35}));
 
-        System.out.println(new Problem57().incrementString("foobar1000"));
+//        System.out.println(new Problem57().incrementString("foobar1000"));
+
+        System.out.println(new Problem58().rowSumOddNumbers(1));
 
     }
 }
