@@ -139,7 +139,10 @@ public class client {
 
 //        System.out.println(new Problem57().incrementString("foobar1000"));
 
-        System.out.println(new Problem58().rowSumOddNumbers(1));
+//        System.out.println(new Problem58().rowSumOddNumbers(1));
 
+        System.out.println(new Problem59().decrypt("bz", "a"));
     }
 }
+//n p c m i r x n d
+//m p b m h r w n c
