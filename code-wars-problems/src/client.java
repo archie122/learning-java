@@ -141,7 +141,9 @@ public class client {
 
 //        System.out.println(new Problem58().rowSumOddNumbers(1));
 
-        System.out.println(new Problem59().decrypt("bz", "a"));
+//        System.out.println(new Problem59().decrypt("bz", "a"));
+
+        System.out.println(new Problem60().hexToDec("1c"));
     }
 }
 //n p c m i r x n d
