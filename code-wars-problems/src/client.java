@@ -143,7 +143,9 @@ public class client {
 
 //        System.out.println(new Problem59().decrypt("bz", "a"));
 
-        System.out.println(new Problem60().hexToDec("1c"));
+//        System.out.println(new Problem60().hexToDec("1c"));
+
+        System.out.println(new Problem61().solve("HELLO"));
     }
 }
 //n p c m i r x n d
