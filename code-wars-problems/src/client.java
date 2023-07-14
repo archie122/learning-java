@@ -145,7 +145,11 @@ public class client {
 
 //        System.out.println(new Problem60().hexToDec("1c"));
 
-        System.out.println(new Problem61().solve("HELLO"));
+//        System.out.println(new Problem61().solve("HELLO"));
+
+//        System.out.println(new Problem62().noBoringZeros(1050));
+
+        System.out.println(new Problem63().findMissingLetter(new char[] { 'a','b','c','d','f' }));
     }
 }
 //n p c m i r x n d
