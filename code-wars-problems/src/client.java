@@ -149,7 +149,11 @@ public class client {
 
 //        System.out.println(new Problem62().noBoringZeros(1050));
 
-        System.out.println(new Problem63().findMissingLetter(new char[] { 'a','b','c','d','f' }));
+//        System.out.println(new Problem63().findMissingLetter(new char[] { 'a','b','c','d','f' }));
+
+//        System.out.println(new Problem64().stringy(0000));
+
+        System.out.println(new Problem65().strCount("Hello", 'l'));
     }
 }
 //n p c m i r x n d
