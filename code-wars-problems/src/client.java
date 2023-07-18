@@ -153,7 +153,11 @@ public class client {
 
 //        System.out.println(new Problem64().stringy(0000));
 
-        System.out.println(new Problem65().strCount("Hello", 'l'));
+//        System.out.println(new Problem65().strCount("Hello", 'l'));
+
+//        System.out.println(new Problem66().multiplicationTable(5);
+
+        System.out.println(new Problem67().roundToNext5(21));
     }
 }
 //n p c m i r x n d
