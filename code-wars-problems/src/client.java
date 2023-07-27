@@ -159,7 +159,9 @@ public class client {
 
 //        System.out.println(new Problem67().roundToNext5(21));
 
-        System.out.println(new Problem68().reverseWords("  "));
+//        System.out.println(new Problem68().reverseWords("  "));
+
+        System.out.println(new Problem69().sayHello(new String[]{"Alex", "Jacob", "Mark", "Max"}, "New York", "New York"));
 
     }
 }
