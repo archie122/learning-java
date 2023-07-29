@@ -161,8 +161,9 @@ public class client {
 
 //        System.out.println(new Problem68().reverseWords("  "));
 
-        System.out.println(new Problem69().sayHello(new String[]{"Alex", "Jacob", "Mark", "Max"}, "New York", "New York"));
+//        System.out.println(new Problem69().sayHello(new String[]{"Alex", "Jacob", "Mark", "Max"}, "New York", "New York"));
 
+        System.out.println(new Problem70().howOld("5 years old"));
     }
 }
 //n p c m i r x n d

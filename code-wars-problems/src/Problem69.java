@@ -1,5 +1,5 @@
 public class Problem69 {
-     b  public String sayHello(String [] name, String city, String state){
+    public String sayHello(String [] name, String city, String state){
         String full_name = " ";
 
         for (int i = 0; i < name.length; i++){
