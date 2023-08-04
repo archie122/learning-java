@@ -163,7 +163,9 @@ public class client {
 
 //        System.out.println(new Problem69().sayHello(new String[]{"Alex", "Jacob", "Mark", "Max"}, "New York", "New York"));
 
-        System.out.println(new Problem70().howOld("5 years old"));
+//        System.out.println(new Problem70().howOld("5 years old"));
+
+        System.out.println(new Problem71().dirReduc(new String[]{"NORTH", "EAST", "NORTH", "EAST", "WEST", "WEST", "EAST", "EAST", "WEST", "SOUTH"}));
     }
 }
 //n p c m i r x n d
