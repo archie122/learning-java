@@ -165,7 +165,9 @@ public class client {
 
 //        System.out.println(new Problem70().howOld("5 years old"));
 
-        System.out.println(new Problem71().dirReduc(new String[]{"NORTH", "EAST", "NORTH", "EAST", "WEST", "WEST", "EAST", "EAST", "WEST", "SOUTH"}));
+//        System.out.println(new Problem71().dirReduc(new String[]{"NORTH", "EAST", "NORTH", "EAST", "WEST", "WEST", "EAST", "EAST", "WEST", "SOUTH"}));
+
+        System.out.println(new Problem72().greet("SAM"));
     }
 }
 //n p c m i r x n d
